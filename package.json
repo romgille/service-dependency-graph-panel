@@ -26,7 +26,7 @@
     "@babel/core": "7.12.9",
     "@babel/preset-env": "7.12.7",
     "@grafana/data": "^8.5.5",
-    "@grafana/toolkit": "^8.5.5",
+    "@grafana/toolkit": "^8.5.27",
     "@grafana/ui": "^8.5.5",
     "@types/react-cytoscapejs": "^1.1.2",
     "babel-loader": "8.2.2",
